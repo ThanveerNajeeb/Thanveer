@@ -1,4 +1,4 @@
-/*  FLOYD'S TRIANGLE
+c/*  FLOYD'S TRIANGLE
  *       1
  *       2 3
  *       4 5 6
